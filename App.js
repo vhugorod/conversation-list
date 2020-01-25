@@ -24,7 +24,6 @@ export default class ConversationList extends Component {
         <FlatList
           data={this.state.list}
           renderItem={ ({ item }) => <ListItem data={item} />} 
-        
         />
       </View>
     );
