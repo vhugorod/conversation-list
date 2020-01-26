@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Platform, StyleSheet, FlatList } from 'react-native';
+import { View, Platform, StyleSheet, FlatList, Text } from 'react-native';
 import ListItem from './src/ListItem';
 
 export default class ConversationList extends Component {
@@ -35,6 +35,7 @@ export default class ConversationList extends Component {
   render() {
     return (
       <View style={styles.container}>
+        <Text style={styles.title}>Chats</Text>
         <FlatList
           data={this.state.list}
           renderItem={ ({ item }) => <ListItem data={item} />} 
@@ -48,5 +49,14 @@ const styles = StyleSheet.create({
   container:{
     flex:1,
     marginTop:(Platform.OS=='ios') ? 20 : 0
+  },
+  title: {
+    padding:10,
+    fontSize:20,
+    fontWeight:'bold',
+    textAlign:'center',
+    borderWidth:1,
+    borderColor:'#000000',
+    backgroundColor:'#CCCCCC'
   }
 });

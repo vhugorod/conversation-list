@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   },
   nome: {
     fontSize:15,
-    fontWeight:'bold'
+    fontWeight:'bold',
+    fontStyle:'italic'
   }
-
 });
