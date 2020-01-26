@@ -13,7 +13,7 @@ export default class ListItem extends Component {
   }
   
   click() {
-    alert("Clicou para abrir a conversa: "+this.props.data.key);
+    alert("You clicked to open the conversation: "+this.props.data.key);
   }
   
   render() {
