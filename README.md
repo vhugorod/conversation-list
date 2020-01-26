@@ -1,7 +1,8 @@
 # Conversation list
 This is an application based on a conversation list using FlatList Component
 
-![App](https://github.com/Vitorhr10/conversation-list/blob/master/android.PNG)
+![App](https://github.com/Vitorhr10/conversation-list/blob/master/androidappchat.PNG)
+![App](https://github.com/Vitorhr10/conversation-list/blob/master/androidapp.PNG)
 
 ## Features
 

@@ -19,6 +19,15 @@ export default class ConversationList extends Component {
         {key:'9', img:'https://www.b7web.com.br/avatar1.png', nome:'Leonardo Lopes', msg:'Hey, how old are you?'},
         {key:'10', img:'https://www.b7web.com.br/avatar3.png', nome:'Tamiris Camila', msg:'Hello, where are you from?'},
         {key:'11', img:'https://www.b7web.com.br/avatar1.png', nome:'Lucas Campos', msg:'Hello, what is nickname name?'}, 
+        {key:'12', img:'https://www.b7web.com.br/avatar3.png', nome:'Solaine Santos', msg:'Hey, how are you doing?'},
+        {key:'13', img:'https://www.b7web.com.br/avatar2.png', nome:'Vitor Andrade', msg:'Bro, will you come here today?'},
+        {key:'14', img:'https://www.b7web.com.br/avatar3.png', nome:'Aline Costa', msg:'Hello, when will you visit me?'},
+        {key:'15', img:'https://www.b7web.com.br/avatar1.png', nome:'Pedro Henrique', msg:'Hi, what is your name?'},
+        {key:'16', img:'https://www.b7web.com.br/avatar2.png', nome:'Tibério Silva', msg:'Bro, whats up?'},
+        {key:'17', img:'https://www.b7web.com.br/avatar3.png', nome:'Solange Gomes', msg:'Hello, whould you like to take some coffee?'},
+        {key:'18', img:'https://www.b7web.com.br/avatar1.png', nome:'Leonardo Lopes', msg:'Hey, how old are you?'},
+        {key:'19', img:'https://www.b7web.com.br/avatar3.png', nome:'Tamiris Camila', msg:'Hello, where are you from?'},
+        
       ]
     };
   }
