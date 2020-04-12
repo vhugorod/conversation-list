@@ -1,14 +1,26 @@
-# Conversation list
-This is an application based on a conversation list using FlatList Component
+<h1 align="center">
+Chat list
+</h1>
 
-![App](https://github.com/Vitorhr10/conversation-list/blob/master/androidappchat.PNG)
-![App](https://github.com/Vitorhr10/conversation-list/blob/master/androidapp.PNG)
+<p align="center">Chat list is a mobile application that helps people talking to others.</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
+<div>
+  <img src="https://github.com/Vitorhr10/conversation-list/blob/master/androidappchat.PNG">
+  <img src="https://github.com/Vitorhr10/conversation-list/blob/master/androidapp.PNG">
+</div>
+
+<hr />
 
 ## Features
 
 This app features all the latest tools and practices in mobile development!
 
-- **React Js** — A JavaScript library for building user interfaces
 - **React Native** — A lib that provides a way to create native apps for Android and iOS
 
 ## Getting started
